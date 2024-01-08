@@ -16,7 +16,8 @@ The application, सुरक्षा, addresses the specific need for Rescue A
 
 2. **Unique Email Authentication:**
    - Only designated agency email IDs can receive OTPs for registration.
-    ![1st](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/42bd2e14-8c96-41d9-aa8e-54ce659f69ce)
+      ![auth](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/dc677c9b-c717-42b0-9464-d022bd4353ff)
+
 
 
 3. **Automated Agency Details:**
@@ -26,15 +27,22 @@ The application, सुरक्षा, addresses the specific need for Rescue A
 
 4. **Agency Interaction:**
    - View other registered agencies and their available resources on a customizable map.
-     
+     ![maps](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/27119373-e9c9-45e9-8b16-dad21ee4c4ed)
+
    - Real-time resource request and response during calamities.
+     ![request1](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/66bd9697-3866-490c-80d9-f538bd2b2510)
+
 
 5. **Broad Reach:**
    - Facilitates communication from NDRF to local agencies during emergencies.
+     ![realtime](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/1b6e102a-3b6e-42b6-80b2-8142d5b64362)
+
 
 6. **Resource Management:**
    - Database structured with tags for various resource categories.
    - Real-time allocation based on requests.
+     ![request2](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/fa8745c8-6eef-47e2-84d5-4c1ef98353de)
+
 
 7. **Disaster Location Notification:**
    - Agencies can pin disaster locations, sending notifications to nearby registered agencies within a 100 km radius.
@@ -48,15 +56,44 @@ The application, सुरक्षा, addresses the specific need for Rescue A
 - **AES+JWT Custom Algo:** Encrypting Sensitive Data
 
 
-Provide instructions on how to:
-- Clone the repository
-- Install dependencies
-- Set up necessary configurations
-- Run the application
+
+
+
+### How to Use:
+
+To get started with this application, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Set up necessary configurations:**
+   - Ensure you have the required API keys for Google Maps (if applicable) in your environment variables.
+   - Check and update any necessary configurations in the app, such as database connections or environment-specific settings.
+
+4. **Run the application:**
+
+   ```bash
+   npm run dev
+   ```
+   This command will start the development server and launch the application on your local machine.
+
+Make sure you have Node.js and npm installed beforehand.
 
 ### Contributors:
 
-- [Your Name](link_to_your_profile)
-- [Team Member 1](link_to_profile)
-- [Team Member 2](link_to_profile)
+- Samueal Dsouza
+- Tushar Maurya
+- Bhavesh Mankar
+- Shreyas Jagadale
+- Sarthak Kulkarni
+- Ankita Mandhare
 
