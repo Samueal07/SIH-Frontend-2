@@ -1,6 +1,6 @@
 # सुरक्षा - Rescue Agency Communication App
 
-![1st](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/c1131db7-f174-4839-b65a-17afad75c8c5)
+![1st](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/6a4822d5-a4ef-4535-85e6-e75bca490700)
 
 ### Problem Statement 1440 - Smart India Hackathon 2023
 
