@@ -16,14 +16,17 @@ The application, सुरक्षा, addresses the specific need for Rescue A
 
 2. **Unique Email Authentication:**
    - Only designated agency email IDs can receive OTPs for registration.
-   - ![1st](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/42bd2e14-8c96-41d9-aa8e-54ce659f69ce)
+    ![1st](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/42bd2e14-8c96-41d9-aa8e-54ce659f69ce)
 
 
 3. **Automated Agency Details:**
    - Admins can manually or auto-fill details using Google Maps integration.
+     ![agency](https://github.com/Samueal07/SIH-Frontend-2/assets/99087302/a9d979f7-9387-4633-bcaa-9cc14eefbbcc)
+
 
 4. **Agency Interaction:**
    - View other registered agencies and their available resources on a customizable map.
+     
    - Real-time resource request and response during calamities.
 
 5. **Broad Reach:**
